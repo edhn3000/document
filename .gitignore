@@ -1,0 +1,41 @@
+.DS_Store
+target/
+logs/
+logs_temp/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+log/
+
+application-dev.yml
+application-dev.properties
+application-test.yml
+bootstrap-dev.yml
+bootstrap-dev.properties
+
+*~$*
+tmp*.txt
+*.tgz
+*.gz
+*.zip
+
